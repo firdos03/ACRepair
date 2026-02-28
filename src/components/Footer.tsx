@@ -55,7 +55,7 @@ export const Footer = () => {
           </div>
 
           {/* Newsletter */}
-          <div>
+          {/* <div>
             <h4 className="text-slate-900 font-bold mb-6">Stay Updated</h4>
             <p className="text-slate-500 mb-4 text-sm leading-relaxed">
               Subscribe to get seasonal maintenance tips and discount offers.
@@ -70,7 +70,7 @@ export const Footer = () => {
                 Join
               </button>
             </div>
-          </div>
+          </div> */}
         </div>
 
         <div className="mt-16 pt-8 border-t border-slate-200 flex flex-col md:flex-row justify-between items-center gap-4 text-slate-500 text-sm">

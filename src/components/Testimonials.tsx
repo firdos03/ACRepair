@@ -6,7 +6,7 @@ const testimonials = [
   {
     name: 'Rahul Kulkarni',
     location: 'Aundh, Pune',
-    text: 'Excellent service! My AC was making a strange noise. The technician arrived within an hour and fixed it quickly. Very professional.',
+    text: 'AC se ajeeb awaaz aa rahi thi. Call kiya aur sirf 1 ghante me technician aa gaya. Proper check karke turant theek kar diya. Bahut genuine service 👍',
     rating: 5,
     img: 'https://i.pravatar.cc/150?u=rahul'
   },
@@ -14,17 +14,18 @@ const testimonials = [
     name: 'Sneha Deshpande',
     location: 'Kothrud, Pune',
     text: 'Hard working and honest team. They didnt overcharge for the gas refilling. Highly recommended for regular maintenance.',
-    rating: 5,
+    rating: 4,
     img: 'https://i.pravatar.cc/150?u=sneha'
   },
   {
     name: 'Amit Shinde',
     location: 'Baner, Pune',
-    text: 'Got my 2 new split ACs installed from them. The finish was very clean, and they explained all the features patiently.',
+    text: '2 naye split AC install karwaye. Proper fitting ki aur pura clean finish diya. Sab features bhi patiently samjhaye. Professional kaam 👍',
     rating: 5,
-    img: 'https://i.pravatar.cc/150?u=amit'
+    img: 'https://i.pravatar.cc/150?u=prit'
   }
 ];
+
 
 export const Testimonials = () => {
   return (
@@ -58,7 +59,7 @@ export const Testimonials = () => {
               "{t.text}"
             </p>
             <div className="flex items-center gap-4">
-              <img src={t.img} alt={t.name} className="w-12 h-12 rounded-full object-cover" />
+              {/* <img src={t.img} alt={t.name} className="w-12 h-12 rounded-full object-cover" /> */}
               <div>
                 <div className="font-bold text-slate-900">{t.name}</div>
                 <div className="text-sm text-slate-500">{t.location}</div>

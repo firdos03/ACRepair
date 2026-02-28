@@ -65,13 +65,13 @@ export const WhyChooseUs = () => {
 
             <div className="mt-12 p-8 bg-blue-600 rounded-[32px] text-white flex flex-col sm:flex-row items-center justify-between gap-6 shadow-xl shadow-blue-200">
               <div className="text-center sm:text-left">
-                <div className="text-3xl font-bold mb-1">15,000+</div>
+                <div className="text-3xl font-bold mb-1">500+</div>
                 <div className="opacity-90">Satisfied Customers</div>
               </div>
               <div className="h-10 w-px bg-blue-400 hidden sm:block" />
               <div className="text-center sm:text-left">
-                <div className="text-3xl font-bold mb-1">4.9/5</div>
-                <div className="opacity-90">Google Rating</div>
+                <div className="text-3xl font-bold mb-1">4.7/5</div>
+                <div className="opacity-90">Rating</div>
               </div>
               <button className="bg-white text-blue-600 px-8 py-3 rounded-2xl font-bold hover:bg-slate-50 transition-all">
                 Book Today

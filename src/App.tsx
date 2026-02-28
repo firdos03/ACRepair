@@ -4,8 +4,8 @@ import { Hero } from './components/Hero';
 import { Services } from './components/Services';
 import { WhyChooseUs } from './components/WhyChooseUs';
 import { Testimonials } from './components/Testimonials';
-import { Contact } from './components/Contact';
 import { Footer } from './components/Footer';
+import { FloatingCallButton } from './components/FloatingCallButton';
 
 export default function App() {
   return (
@@ -16,9 +16,10 @@ export default function App() {
         <Services />
         <WhyChooseUs />
         <Testimonials />
-        <Contact />
+        {/* <Contact /> */}
+        <Footer />
       </main>
-      <Footer />
+      <FloatingCallButton />
     </div>
   );
 }
