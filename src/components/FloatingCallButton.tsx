@@ -13,7 +13,7 @@ export const FloatingCallButton = () => {
             }}
         >
             <a
-                href="tel:+91 91305 69016"
+                href="tel:+91 89567 96444"
                 className="flex items-center gap-2 bg-blue-600 text-white px-6 py-3 rounded-full shadow-xl hover:bg-blue-700 active:scale-95 transition-all duration-200"
             >
                 <Phone size={18} />

@@ -41,7 +41,7 @@ export const Navbar = () => {
               </a>
             ))}
             <a
-              href="tel:+91 91305 69016"
+              href="tel:+91 89567 96444"
               className="bg-blue-600 text-white px-5 py-2.5 rounded-full flex items-center gap-2 hover:bg-blue-700 transition-all shadow-md hover:shadow-lg"
             >
               <Phone size={18} />
@@ -73,7 +73,7 @@ export const Navbar = () => {
               </a>
             ))}
             <a
-              href="tel:+91 91305 69016"
+              href="tel:+91 89567 96444"
               className="bg-blue-600 text-white px-6 py-3 rounded-xl flex items-center justify-center gap-2 font-semibold"
             >
               <Phone size={20} />

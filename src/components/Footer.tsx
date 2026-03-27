@@ -36,12 +36,18 @@ export const Footer = () => {
             <ul className="space-y-4 text-slate-500">
               <li><a href="#" className="hover:text-blue-600 transition-colors">Split AC Repair</a></li>
               <li><a href="#" className="hover:text-blue-600 transition-colors">Window AC Service</a></li>
-              <li><a href="#" className="hover:text-blue-600 transition-colors">Gas Refilling</a></li>
-              <li><a href="#" className="hover:text-blue-600 transition-colors">Annual Maintenance</a></li>
+              <li><a href="#" className="hover:text-blue-600 transition-colors">AC Not Cooling Repair</a></li>
+              <li><a href="#" className="hover:text-blue-600 transition-colors">AC Installation / Fitting Service</a></li>
+              <li><a href="#" className="hover:text-blue-600 transition-colors">Split AC Shifting / Relocation</a></li>
+              <li><a href="#" className="hover:text-blue-600 transition-colors">AC Power Jet Cleaning</a></li>
+              <li><a href="#" className="hover:text-blue-600 transition-colors">AC Service & Maintenance</a></li>
+              <li><a href="#" className="hover:text-blue-600 transition-colors">AC Gas Refilling / Top Up</a></li>
+              <li><a href="#" className="hover:text-blue-600 transition-colors">AC Outdoor Unit Replacement</a></li>
+              <li><a href="#" className="hover:text-blue-600 transition-colors">New / Old AC Sales & Service</a></li>
+              <li><a href="#" className="hover:text-blue-600 transition-colors">Annual Maintenance Contract (AMC)</a></li>
               <li><a href="#" className="hover:text-blue-600 transition-colors">PCB Repair</a></li>
             </ul>
           </div>
-
           {/* Locations */}
           <div>
             <h4 className="text-slate-900 font-bold mb-6">Service Areas</h4>

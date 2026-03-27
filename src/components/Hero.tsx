@@ -31,13 +31,12 @@ export const Hero = () => {
 
             <div className="flex flex-col sm:flex-row gap-4 mb-10">
               <a
-                href="tel:+919876543210"
+                href="tel:+91 89567 96444"
                 className="bg-blue-600 text-white px-8 py-4 rounded-2xl font-bold text-lg hover:bg-blue-700 transition-all flex items-center justify-center gap-2 shadow-lg shadow-blue-200 active:scale-95"
               >
                 <Phone size={20} />
                 Book a Technician
               </a>
-
             </div>
 
             <div className="grid grid-cols-2 gap-6 pt-6 border-t border-slate-200">
