@@ -84,7 +84,7 @@ export const Hero = () => {
                     </div>
                   ))}
                 </div>
-                <div className="text-sm font-bold text-slate-900">500+ Served</div>
+                <div className="text-sm font-bold text-slate-900">5000+ Served</div>
               </div>
               <p className="text-xs text-slate-500 leading-tight">Trusted by residents in Kothrud, Baner, Wakad, and beyond.</p>
             </div>

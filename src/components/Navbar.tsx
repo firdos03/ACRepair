@@ -26,7 +26,7 @@ export const Navbar = () => {
         <div className="flex justify-between items-center">
           <div className="flex items-center gap-2">
             <ThermometerSnowflake className="text-blue-600 w-8 h-8" />
-            <span className="text-xl font-bold tracking-tight text-slate-900">PuneCool AC</span>
+            <span className="text-xl font-bold tracking-tight text-slate-900">Unique AC Service</span>
           </div>
 
           {/* Desktop Nav */}

@@ -6,7 +6,7 @@ const testimonials = [
   {
     name: 'Rahul Kulkarni',
     location: 'Aundh, Pune',
-    text: 'AC se ajeeb awaaz aa rahi thi. Call kiya aur sirf 1 ghante me technician aa gaya. Proper check karke turant theek kar diya. Bahut genuine service 👍',
+    text: 'My AC was making a strange noise, so I called for service. The technician arrived within just one hour, thoroughly inspected the unit, and fixed the issue immediately. Very genuine and reliable service. Highly recommended!👍',
     rating: 5,
     img: 'https://i.pravatar.cc/150?u=rahul'
   },
@@ -20,7 +20,7 @@ const testimonials = [
   {
     name: 'Amit Shinde',
     location: 'Baner, Pune',
-    text: '2 naye split AC install karwaye. Proper fitting ki aur pura clean finish diya. Sab features bhi patiently samjhaye. Professional kaam 👍',
+    text: 'I got two new split ACs installed. The technician did a proper fitting and gave a clean, neat finish. They also patiently explained all the features. Very professional work. 👍',
     rating: 5,
     img: 'https://i.pravatar.cc/150?u=prit'
   }

@@ -12,7 +12,7 @@ export const Footer = () => {
           <div className="space-y-6">
             <div className="flex items-center gap-2">
               <ThermometerSnowflake className="text-blue-600 w-8 h-8" />
-              <span className="text-2xl font-bold tracking-tight text-slate-900">PuneCool AC</span>
+              <span className="text-2xl font-bold tracking-tight text-slate-900">Unique AC Service</span>
             </div>
             <p className="text-slate-500 leading-relaxed">
               Providing professional cooling solutions for homes and businesses across Pune. Quality service, guaranteed.
@@ -80,7 +80,7 @@ export const Footer = () => {
         </div>
 
         <div className="mt-16 pt-8 border-t border-slate-200 flex flex-col md:flex-row justify-between items-center gap-4 text-slate-500 text-sm">
-          <p>© {currentYear} PuneCool AC Repair Services. All rights reserved.</p>
+          <p>© {currentYear} Unique AC Services. All rights reserved.</p>
           <div className="flex items-center gap-1">
             Made with <Heart size={14} className="text-rose-500 fill-rose-500" /> in Pune
           </div>
